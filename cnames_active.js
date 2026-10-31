@@ -1440,6 +1440,7 @@ var cnames_active = {
   "hasura-om": "mrspartak.github.io/hasura-om",
   "hawiah": "cname.vercel-dns.com", // noCF
   "hay": "hayjs.github.io/hay.js.org",
+  "hayek": "anases.github.io/hayek",
   "hbase": "adaltas.github.io/node-hbase-docs",
   "hcs": "kimcore.github.io/hcs.js", // noCF
   "head": "head-js.github.io",
@@ -1676,6 +1677,7 @@ var cnames_active = {
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js-validation": "phpdevsr.github.io/js-validation",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
+  "jschecker": "void556.github.io/jschecker",
   "jscord": "thepoptartcrpr.github.io/jscord",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
@@ -2238,6 +2240,7 @@ var cnames_active = {
   "mzplayer": "prince3661.github.io/Mzplayer",
   "n": "cyb.github.io/n",
   "nacl-check": "magnusmarx.github.io/NaCL",
+  "naizo": "nickosh.github.io/naizo",
   "naja": "naja-js.github.io/naja",
   "namaste": "namaste-duniya.github.io/js",
   "namelessman": "namelessman.github.io",
@@ -3744,6 +3747,7 @@ var cnames_active = {
   "vue-svg-loader": "vue-svg-loader.netlify.app",
   "vue-tiny-validate": "vue-tiny-validate.netlify.app",
   "vue-treeselect": "riophae.github.io/vue-treeselect",
+  "vue-why-render": "dadashi44.github.io/vue-why-render",
   "vuejsindy": "vuejsindy.github.io",
   "vuelidate": "vuelidate.netlify.app",
   "vuelog": "myst729.github.io/Vuelog",
